@@ -1,0 +1,5 @@
+module:com.swdprojects.romkaicode.dmsgui
+com.swdprojects.romkaicode.dmsgui
+com.swdprojects.romkaicode.dmsgui.controller
+com.swdprojects.romkaicode.dmsgui.model
+com.swdprojects.romkaicode.dmsgui.view
